@@ -3,7 +3,7 @@
     "description": "Zip adapter for Gaufrette",
     "type": "metapackage",
     "require": {
-        "knplabs/gaufrette": "^0.3",
+        "knplabs/gaufrette": "~0.3",
         "ext-zip": "*"
     },
     "authors": [
